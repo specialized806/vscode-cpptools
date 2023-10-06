@@ -229,6 +229,7 @@
 	"failed_to_query_for_standard_version": "Non è stato possibile eseguire una query sul compilatore nel percorso \"{0}\" per le versioni standard predefinite. L'esecuzione di query del compilatore è disabilitata per questo compilatore.",
 	"unrecognized_language_standard_version": "La query del compilatore ha restituito una versione standard del linguaggio non riconosciuta. In alternativa, verrà usata la versione più recente supportata.",
 	"intellisense_process_crash_detected": "È stato rilevato un arresto anomalo del processo IntelliSense.",
+	"intellisense_feature_crash_detected": "È stato rilevato un arresto anomalo del processo IntelliSense: {0}",
 	"return_values_label": "Valori restituiti:",
 	"nvcc_compiler_not_found": "Non è possibile individuare il compilatore nvcc: {0}",
 	"nvcc_host_compiler_not_found": "Non è possibile individuare il compilatore host nvcc: {0}",

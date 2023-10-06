@@ -229,6 +229,7 @@
 	"failed_to_query_for_standard_version": "未能在路径 \"{0}\" 处查询编译器以获得默认标准版本。已对此编译器禁用编译器查询。",
 	"unrecognized_language_standard_version": "编译器查询返回了无法识别的语言标准版本。将改用受支持的最新版本。",
 	"intellisense_process_crash_detected": "检测到 IntelliSense 进程崩溃。",
+	"intellisense_feature_crash_detected": "检测到 IntelliSense 进程崩溃: {0}",
 	"return_values_label": "返回值:",
 	"nvcc_compiler_not_found": "找不到 nvcc 编译器: {0}",
 	"nvcc_host_compiler_not_found": "找不到 nvcc 主机编译器: {0}",
@@ -294,7 +295,7 @@
 	"refactor_operation_unsupported": "此操作不支持“%s”。",
 	"unknown_error": "未知错误。",
 	"run_select_intellisense_configuration": "请运行“选择 IntelliSense 配置...”命令以定位系统标头。",
-	"offer_copy_declaration": "\"{0}\" 的复制声明",
-	"offer_copy_definition": "\"{0}\" 的复制定义",
+	"offer_copy_declaration": "复制 '{0}' 的声明",
+	"offer_copy_definition": "复制 '{0}' 的定义",
 	"refactor_copy_declaration_definition_failed": "将声明/定义复制到剪贴板失败: %s"
 }

@@ -229,6 +229,7 @@
 	"failed_to_query_for_standard_version": "既定の標準バージョンのパス \"{0}\" でコンパイラをクエリできませんでした。このコンパイラでは、コンパイラのクエリが無効になっています。",
 	"unrecognized_language_standard_version": "コンパイラ クエリにより、認識されない言語標準バージョンが返されました。代わりに、サポートされている最新のバージョンが使用されます。",
 	"intellisense_process_crash_detected": "IntelliSense プロセスのクラッシュが検出されました。",
+	"intellisense_feature_crash_detected": "IntelliSense プロセスのクラッシュが検出されました: {0}",
 	"return_values_label": "戻り値:",
 	"nvcc_compiler_not_found": "nvcc コンパイラが見つかりません: {0}",
 	"nvcc_host_compiler_not_found": "nvcc ホスト コンパイラが見つかりません: {0}",
