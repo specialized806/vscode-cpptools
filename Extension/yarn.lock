@@ -3477,17 +3477,10 @@ minimatch@^3.0.4, minimatch@^3.1.1, minimatch@^3.1.2:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimatch@^4.2.4:
-  version "4.2.4"
-  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/minimatch/-/minimatch-4.2.4.tgz#52479165fc14be25bb563a58662042fba4c5d3ef"
-  integrity sha1-UkeRZfwUviW7VjpYZiBC+6TF0+8=
-  dependencies:
-    brace-expansion "^1.1.7"
-
-minimatch@^5.0.1, minimatch@^5.1.0, minimatch@^5.1.6:
-  version "5.1.6"
-  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/minimatch/-/minimatch-5.1.6.tgz#1cfcb8cf5522ea69952cd2af95ae09477f122a96"
-  integrity sha1-HPy4z1Ui6mmVLNKvla4JR38SKpY=
+minimatch@^5.0.1, minimatch@^5.1.0, minimatch@^5.1.6, minimatch@^5.1.7:
+  version "5.1.7"
+  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/minimatch/-/minimatch-5.1.7.tgz#9bce540b26998f278d34784a3dd25d96f5054d6d"
+  integrity sha1-m85UCyaZjyeNNHhKPdJdlvUFTW0=
   dependencies:
     brace-expansion "^2.0.1"
 
