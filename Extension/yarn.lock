@@ -3482,17 +3482,17 @@ mimic-fn@^2.1.0:
   resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/mimic-fn/-/mimic-fn-2.1.0.tgz#7ed2c2ccccaf84d3ffcb7a69b57711fc2083401b"
   integrity sha1-ftLCzMyvhNP/y3pptXcR/CCDQBs=
 
+minimatch@^10.2.3:
+  version "10.2.3"
+  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/minimatch/-/minimatch-10.2.3.tgz#c0ef582f21071b0123a5bbf275252ebda921fbf6"
+  integrity sha1-wO9YLyEHGwEjpbvydSUuvakh+/Y=
+  dependencies:
+    brace-expansion "^5.0.2"
+
 minimatch@^3.0.4, minimatch@^3.1.1, minimatch@^3.1.2:
   version "3.1.3"
   resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/minimatch/-/minimatch-3.1.3.tgz#6a5cba9b31f503887018f579c89f81f61162e624"
   integrity sha1-aly6mzH1A4hwGPV5yJ+B9hFi5iQ=
-  dependencies:
-    brace-expansion "^1.1.7"
-
-minimatch@^4.2.5:
-  version "4.2.5"
-  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/minimatch/-/minimatch-4.2.5.tgz#fa32115d4418eeaa7d1313a28b146e2a3288747d"
-  integrity sha1-+jIRXUQY7qp9ExOiixRuKjKIdH0=
   dependencies:
     brace-expansion "^1.1.7"
 
